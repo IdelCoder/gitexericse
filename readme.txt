@@ -5,3 +5,6 @@ I am 3
 I am Friday.
 I am Tuesday.
 this
+shadow 1
+shadow 2
+shadow 3
