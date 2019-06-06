@@ -1,2 +1,2 @@
 this is readme
-This is for practice
+This is for git practice
